@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#hero_section{
+    height: 48vh;
+    border:1px solid black;
+    display: flex;
+}
+
+h4 {
+
+}
+
+.sec1{
+    border: 1px dotted green;
+    width: 48%;
+    height: 100%;
+    text-align: center;
+}
+
+#picha{
+    height: 100%;
+}
